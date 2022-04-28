@@ -5,3 +5,6 @@
 [db_servers]
 10.3.56.190
 
+[workstations]
+10.3.56.173
+
